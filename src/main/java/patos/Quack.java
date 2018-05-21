@@ -3,6 +3,6 @@ package patos;
 public class Quack implements ComportamientoDeQuack{
 
 	public void quack(){
-		System.out.println("Quack");
+		System.out.println(" SUPER Quack");
 	}
 }
